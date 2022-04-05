@@ -1,1 +1,1 @@
-https://github.com/KestDev/rsschool-cv/cv
+https://kestdev.github.io/rsschool-cv/cv
